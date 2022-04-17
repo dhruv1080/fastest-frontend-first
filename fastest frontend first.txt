@@ -1,0 +1,77 @@
+web dev
+team name=hackeroos
+
+member-1(leader)=rounak chatterjee
+pecfest id=pecfest-cjvi8
+
+member-2=dhruv agrawal
+
+--------------------------------------------------------code----------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>galaxy wars</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+        .img3012 {
+            padding: 1px;
+            width: 33%;
+        }
+        .img3678{
+            padding: 1px;
+            width: 33%;
+        }
+        .tabs:hover{
+            background-color: rgb(180, 155, 102);
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div><button class="tabs">EXPLORE</button></div>
+        <div><button class="tabs">NEWS</button></div>
+        <div><button class="tabs">COMMUNITY</button></div>
+        <div><button class="tabs">EQUIP</button></div>
+        <div><button class="tabs">GUIDE</button></div>
+        <div><button class="tabs">STORE</button></div>
+        <div><button class="tabs">BUY NOW</button></div>
+        <div><button class="tabs">LOGIN</button></div>
+    </div>
+    <div id="img">
+        <img id="img66" src="/Rectangle 66.png" alt="error">
+        <img id="img67" src="/Rectangle 67.png" alt="error">
+        <img id="img68" src="/Rectangle 68.png" alt="error">
+    </div>
+    <img class="img3012" id="img30" src="/Rectangle 30.png" alt="error">
+    <img class="img3012" id="img31" src="/Rectangle 31.png" alt="error">
+    <img class="img3012" id="img32" src="/Rectangle 32.png" alt="error">
+</div>
+<div>
+    <img class="3678" src="/Rectangle 36.png" alt="error">
+    <img class="3678" src="/Rectangle 37.png" alt="error">
+    <img class="3678" src="/Rectangle 38.png" alt="error">
+</div>
+<div>
+    <form action="#">
+        <div>
+            <input type="text" name="" id="" placeholder=" NAME" class="form">
+            <input type="email" name="" id="" placeholder=" EMAIL" class="form">
+        </div>
+        <div>
+            <textarea name="" id="" cols="90" rows="10" class="form"
+                placeholder="  Write your content here...."> </textarea>
+        </div>
+    </form>
+    </div>
+</div>
+</body>
+
+</html>
